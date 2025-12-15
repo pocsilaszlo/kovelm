@@ -1283,7 +1283,7 @@
         },
         {
           "id": 87,
-          "question": "Egy projektben szeretné meghatározni a technikailag releváns kifejezéseket. Válassza ki az igazakat az alábbi állítások közül, hogy kiegészítse a mondat elejét.",
+          "question": "Egy projektben szeretné meghatározni a technikailag releváns kifejezéseket. Válassza ki az igazakat az alábbi állítások közül, hogy kiegészítse a mondat elejét.\nA technikailag releváns kifejezések meghatározása ...",
           "options": [
             "...a követelménydokumentumok kívánatos, de nem feltétlenül szükséges eleme.",
             "...meghatározza a műszaki kifejezések jelentését a specifikálandó rendszer szempontjából.",
