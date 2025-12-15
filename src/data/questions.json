@@ -1,0 +1,1847 @@
+[
+    {
+      "id": 1,
+      "question": "A következő tulajdonságok közül melyek elengedhetetlenek a követelményelemzők számára?",
+      "options": [
+        "Empátia",
+        "Analitikus gondolkodás",
+        "Nyilvános beszéd",
+        "Konfliktuskezelés"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 2,
+      "question": "Az alábbiak közül melyek NEM tartoznak a követelményelemzők fő tevékenységei közé?",
+      "options": [
+        "Információgyűjtés",
+        "Dokumentálás",
+        "Érvényesítés",
+        "Agilis módszerek népszerűsítése"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 3,
+      "question": "Értékelje a követelmények forrásaira vonatkozó alábbi állítások érvényességét. Melyik állítás igaz és melyik hamis?\n\nA meglévő rendszerek forráskódja egy új rendszer követelményeinek forrása lehet.\nA követelmények szabványokban és jogi szabályozásokban rejtőzhetnek.\nAz érdekelt felek írásbeli vagy szóbeli nyilatkozatai potenciális követelményforrások\nA konkurens/ellenséges rendszerek értékes forrásai a követelményeknek.",
+      "options": [
+        "Mindegyik igaz",
+        "A meglévő rendszerek forráskódja nem forrás",
+        "A konkurens rendszerek nem források",
+        "Csak az érdekelt felek nyilatkozatai források"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 4,
+      "question": "Nem funkcionális követelmények, feltételezések és megszorítások __________",
+      "options": [
+        "kizárják a környezetvédelmi követelményeket",
+        "nem szabhatnak korlátat a megoldásnak",
+        "nem kapcsolódnak közvetlenül a megoldás viselkedéséhez vagy funkcionalitásához",
+        "csak a követelmények azonosítása és a funkcionális követelmények meghatározása után érdemesek megfontolásra"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 5,
+      "question": "Az alábbiak közül melyik NEM tartozik a követelménytervezés során előforduló gyakori hibák közé?",
+      "options": [
+        "Pontatlan költségbecslés.",
+        "Instabil követelmények.",
+        "Az ügyfél elvárásai és a projekt tartalma közötti szakadék.",
+        "Az ügyfelek bevonása."
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 6,
+      "question": "Az alábbiak közül melyik a szerződés kötelező tartalma?",
+      "options": [
+        "Elfogadási kritériumok minden egyes követelményhez/jellemzőhöz.",
+        "A rangsorolt alacsony szintű követelmények/jellemzők listája.",
+        "A fejlesztés részletes ütemterve.",
+        "A tervezett megoldás részletes leírása."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 7,
+      "question": "Az érintettek azonosítására vonatkozó alábbi állítások közül melyik NEM igaz?",
+      "options": [
+        "Az érintettek a szervezeti struktúra elemzésével azonosíthatók.",
+        "Minden érdekelt fél befolyásolhatja a tervezett megoldás kialakítását.",
+        "Az érdekelt feleknek a termék tulajdonosainak kell lenniük.",
+        "Az érdekeltek érdekcsoportokat hozhatnak létre."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 8,
+      "question": "A nem funkcionális követelményekre vonatkozó alábbi állítások közül melyik NEM igaz?",
+      "options": [
+        "A nem funkcionális követelmények például a rendszer használhatósági szempontjait írják le.",
+        "A nem funkcionális követelmények nem feltétlenül mérhetőek.",
+        "A nem funkcionális követelmények a rendszer, komponens vagy funkció minőségi jellemzőit írják le.",
+        "A nem funkcionális követelmények korlátozhatják a megoldást."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 9,
+      "question": "Az alábbiak közül melyik a követelményelemzés célja?",
+      "options": [
+        "A megoldási terület leírása.",
+        "A követelmények stabilitásának és aláírtságának biztosítása.",
+        "Megoldás létrehozása a követelmények megvalósítására.",
+        "A követelmények dokumentálása"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 10,
+      "question": "Egy liftvezérlő rendszer projektjén dolgozol. Az alábbi UML-diagramtípusok közül melyik kettő a legalkalmasabb ebben a tartományban a funkcionális és a viselkedési követelményeinek dokumentálására?",
+      "options": [
+        "Tevékenységi diagram",
+        "Telepítési diagram",
+        "Osztálydiagram",
+        "Állapotdiagram"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 11,
+      "question": "Az alábbi állítások közül melyik az előnye a korai és gyakori visszajelzésnek az agilis projektben?",
+      "options": [
+        "A gyakori visszajelzések révén az agilis csapat megvitatja, hogyan fejlesztheti a gyakorlatait",
+        "Az ügyfelek gyakori visszajelzései lehetővé teszik a tesztek számának csökkentését időhiány esetén.",
+        "A korai visszajelzéssel elkerülhetők a követelményekkel kapcsolatos félreértések, amelyek esetleg csak a fejlesztési ciklus későbbi szakaszában derülnek ki, amikor már drágább a javításuk.",
+        "A korai és gyakori visszajelzés segít a felhasználói történetek változásainak azonosításában, így az iterációs cél még az iteráció vége előtt módosítható."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 12,
+      "question": "A szerződésben szereplő alábbi jellemzők közül melyik az, amelyik nagyobb valószínűséggel csökkenti az agilis fejlesztés előnyeit?",
+      "options": [
+        "Műszaki megoldások leírása a szerződésben.",
+        "A prioritás szerinti követelmények listája, amely tárgyalható és a változó igényekhez igazítható az ügyféllel egyetértésben.",
+        "Az elfogadás a Definition of Done-nak való megfelelés alapján, amely magában foglalja a teszt automatizálás kötelező használatát.",
+        "A megrendelő számára valóban szükséges teljesítmények listája, magyarázattal arra vonatkozóan, hogy miért van szükség"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 13,
+      "question": "Workshopot tartasz a követelmények üzleti értékének hozzárendeléséhez, planning pokerrel. Mit NE tegyünk, ha ez az eljárás nagy eltérést eredményez a magasabb és az alacsonyabb becslés között?",
+      "options": [
+        "A magasabb és az alacsonyabb szavazat közötti átlagot számítsuk ki. A becsült értéket ez alapján rendeljük hozzá, és a következő követelményt bocsátjuk szavazásra.",
+        "Ha csak egy érték tér el a többitől, akkor az, aki ezt az értéket megadta, megmagyarázza az okokat. Ezután a résztvevők újra szavaznak.",
+        "A magasabb és alacsonyabb becslést adó személyek megindokolják értéküket, majd a résztvevők megvitatják a különbségeket, és megpróbálnak közös képet alkotni az értékről. Ezt követően a résztvevők újra szavaznak.",
+        "Ha több szavazásra kerül sor, és nem sikerül közös megegyezésre jutni, akkor a legtöbb szavazatot kapott értéket lehet kiválasztani."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 14,
+      "question": "A követelményes workshop során a résztvevők megbecsülték a termék egy fontos funkciójának üzleti értékét, majd később ugyanezt a funkciót több részletes felhasználói történetben finomították. A finomítást végző csoport rámutatott, hogy a felhasználói történetek tetszőleges sorrendben elvégezhetők, de addig nincs valódi üzleti érték, amíg az utolsó felhasználói történet nincs kész. Hogyan fogja a PO hozzárendelni az üzleti értéket az egyes felhasználói történetekhez?",
+      "options": [
+        "A PO az összes felhasználói történethez az eredeti funkció azonos üzleti értékét rendeli hozzá",
+        "A PO az összes felhasználói történethez 0 üzleti értéket rendel, kivéve az utolsót, amelyhez ugyanannyit, mint az eredeti funkcióhoz.",
+        "Az eredeti funkció üzleti értékét szét kell osztani a finomított felhasználói történetek között, úgy, hogy az összeg az eredeti funkció kezdeti értéke maradjon.",
+        "Az üzleti érték nem lesz hozzárendelve a felhasználói történetekhez"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 15,
+      "question": "Az alábbiak közül melyik a LEGKEVÉSBÉ kulcsfontosságú szempont az agilis követelményelemzéshez szükséges eszközök kiválasztásakor?",
+      "options": [
+        "a munka csökkentése, dolgok egyszerűsítése",
+        "a követelményekről folytatott viták és beszélgetések eredményei mindenki számára egyszerűen, megosztva és érthető módon álljanak rendelkezésre",
+        "remote workshopok elősegítése, személyes kommunikáció nélkül",
+        "a saját, eddig hatékonynak bizonyult munkamódszerekhez való illeszkedés"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 16,
+      "question": "Melyik mondat jellemzi legjobban az érdekelt fél fogalmát?",
+      "options": [
+        "A rendszer vagy a termék fejlesztése, használata által érintett személyek vagy szervezetek",
+        "A rendszerrel vagy a rendszert körülvevő műszaki interfészekkel kölcsönhatásban álló külső szereplők",
+        "A minőségkapuk jóváhagyásáért felelős speciális érdekképviseletek",
+        "A szoftverfejlesztési környezet adminisztrációjáért felelős személyek"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 17,
+      "question": "Az alábbi állítások közül melyik NEM igaz?",
+      "options": [
+        "A követelmények az érdekelt felek elvárásai és igényei, amelyeket dokumentált és nem dokumentált formában egyaránt kifejeznek.",
+        "A követelmény olyan feltétel vagy képesség, amelyre az érdekelt félnek szüksége van egy probléma megoldásához vagy egy cél eléréséhez",
+        "A követelmények egyik legfontosabb forrása a projekt érdekelt felei.",
+        "A követelmények kapcsolódhatnak a fejlesztési folyamathoz és a szoftvertermékhez"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 18,
+      "question": "Egy online adatbázis követelménytervezési folyamata során azt tapasztalod, hogy az adatvédelmi előírások nem érvényesek, mivel a rendszer által feldolgozott adatok nincsenek megfelelően anonimizálva. Mi az, amit ez befolyásolni fog?",
+      "options": [
+        "A kontextus hatóköre",
+        "A rendszer hatóköre",
+        "Rendszer interfészek",
+        "A rendszer hatókörének szürke zónája"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 19,
+      "question": "Az alábbiak közül melyik a célja a követelménymeghatározás első lépésének?",
+      "options": [
+        "A követelmények és azok értelmezésének a projekt jövőképéhez való igazítása",
+        "A követelmények modellezése. Formális, félformális és informális modellek egyaránt használhatók",
+        "A követelmények konfliktusainak meghatározása és feloldása.",
+        "Megoldási terv készítése a követelmények megvalósításához"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 20,
+      "question": "Az alábbiak közül melyik minőségi (nem funkcionális) követelmény?",
+      "options": [
+        "Az alkalmazásnak képesnek kell lennie 100 egyidejű felhasználó támogatására",
+        "Az alkalmazás fejlesztésének agilis fejlesztési megközelítést kell követnie.",
+        "A rendszernek képesnek kell lennie a jármű környezetére vonatkozó összes szükséges információ rögzítésére.",
+        "Miután a backlog item elkészült, az hozzárendelhető a projektcsapat valamelyik tagjához."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 21,
+      "question": "A követelmények modellezését használati esetdiagrammal csinálod. Melyik válasz írja le legjobban a leendő modellezési elemeit?",
+      "options": [
+        "Aktorok, használati esetek és asszociációk",
+        "Objektumok, használati esetek és tevékenységek",
+        "Aktorok, üzenetek és tevékenységek",
+        "Objektumok, tevékenységek és asszociációk"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 22,
+      "question": "Egy cégben bevezetendő szoftverrendszer követelményeinek meghatározásán dolgozik. A rendszernek automatizálnia kell néhány meglévő, a szervezeten belül végzett üzleti folyamatot. Önnek kell azonosítania és dokumentálnia a megoldásra vonatkozó követelményeket. Az ügyfél két munkatársát jelölte ki arra, hogy támogassák Önt a követelmények azonosításában, de Ön győződik meg arról, hogy komoly problémáik vannak az üzleti folyamatok leírásával, és nem képesek egyértelmű és értékes információkat szolgáltatni Önnek. Némi vizsgálódás után figyelembe veszi, hogy rendelkezésre állnak érvényes munkafolyamatok és alapvető üzleti folyamatok leírásai. Az alábbi technikák közül melyiket használná munkája támogatására?",
+      "options": [
+        "A követelmények meghatározása a meglévő dokumentumok alapján",
+        "Az ügyfél alkalmazottainak kikérdezése",
+        "Kérdőívek készítése a végső felhasználók számára",
+        "Egy korábbi projekt specifikációjának újrafelhasználása"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 23,
+      "question": "Egy üzleti szervezet felhasználói történetek formájában elkészítette a követelményspecifikációt. Milyen szintű formalizálást alkalmazhattak?",
+      "options": [
+        "Nem hivatalos",
+        "Hivatalos",
+        "Fél-hivatalos",
+        "A felhasználói történetek nem tekinthetők specifikációnak"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 24,
+      "question": "Ön magas szintű követelményekből dolgozza ki a megoldás specifikációját. Az alkalmazásnak támogatnia kell a pénzügyi műveletek elvégzését az ügyfél szervezetében. Ezeket a műveleteket igény szerint végfelhasználók végzik, akik az ügyfél szervezetének ügyfelei. Mi az első lépés, amelyet a specifikáció készítésekor el kell végezni?",
+      "options": [
+        "Az érdekelt felek azonosítása",
+        "Követelményelemzés",
+        "A megoldási tartomány meghatározása",
+        "Követelmények meghatározása"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 25,
+      "question": "A nyomonkövethetőséggel kapcsolatos alábbi állítások közül melyik NEM helyes?",
+      "options": [
+        "A nyomonkövethetőség biztosítja, hogy a követelmények tesztelhetőek legyenek",
+        "A nyomonkövethetőség igazolja a végrehajtást",
+        "A nyomonkövethetőség támogatja a változások hatásainak vizsgálatát",
+        "A nyomonkövethetőséget a fejlődő követelmények és a követelményekhez kapcsolódó egyéb készítmények kezelésére használják"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 26,
+      "question": "Az alábbiak közül melyiket NEM támogatják a követelményelemzési eszközök?",
+      "options": [
+        "Követelmények konzisztencia-érvényesítése",
+        "Követelmények változásainak kezelése",
+        "Követelmények osztályozása",
+        "Követelmények tárolása"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 27,
+      "question": "Egy agilis környezetben ki vesz részt a követelmények elfogadásában?",
+      "options": [
+        "Az egész csapat, a terméktulajdonos és az összes érdekelt fél.",
+        "Az egész csapat, valamint a termékhez kapcsolódó tesztelők, akik nem tagjai a csapatnak.",
+        "Az egész csapat és a minőségbiztosítási osztály",
+        "Tesztelők és a PO"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 28,
+      "question": "Annak érdekében, hogy megfelelő alapot teremtsenek a további fejlesztési tevékenységekhez, a követelménydokumentumot bizonyos minőségi kritériumok szempontjából ellenőrzik. Az alábbi tulajdonságok közül melyek tartoznak a \"tartalom\" minőségi szemponthoz?",
+      "options": [
+        "Teljesség",
+        "Egyértelműség",
+        "Méret",
+        "Érthetőség"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 29,
+      "question": "A természetes nyelvi követelmények dokumentálására mondatsablonok használhatók. Ön egy speciális mondatmintát szeretne bevezetni a projektjében, és meg kell győznie a projektvezetőjét annak előnyeiről. Melyik érvet hozza fel leginkább ebben a vitában?",
+      "options": [
+        "A mondatminta szerint megfogalmazott követelmények nem tartalmaznak nyelvi transzformációs hatásokat.",
+        "A mondatsablon használata alapvetően nagyobb információtartalmat biztosít .",
+        "A mondatsablon szerint megfogalmazott követelmény megfelel a követelményekkel szemben támasztott valamennyi minőségi kritériumnak",
+        "A mondatsablonok hátránya, hogy a követelmények megfogalmazása jelentős időt igényel."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 30,
+      "question": "Egy üzleti elemző az érdekelt felekkel együtt dolgozott egy új, főutcai vásárlási élményhez kapcsolódó felhasználói történetek kidolgozásán. A következő felhasználói történeteket azonosították: \n\na) A termékcsapat vezetőjeként azt szeretném, ha minden terméket be tudnék árazni, amint azok a raktárba érkeznek. \nb) Osztályvezetőként szeretném látni az eladott termékek számát, hogy tájékoztatni tudjam a termékelhelyezés tervezőjét. \nc) Az online tapasztalatokért felelős menedzserként szeretném tudni, hogy kik használják a weboldalt a tengerentúli helyszínekről. \nd) Technológiai vezetőként a lehető legjobb élményt szeretném biztosítani minden ügyfelünk számára.\ne) Vásárlóként gyors kiszállítást szeretnék, hogy az áruházi megjelenéstől számított egy munkanapon belül megkapjam a terméket. \nMelyik tartalmazza a felhasználói történet MINDEN szükséges elemét?",
+      "options": [
+        "csak b és e",
+        "csak a, b és e",
+        "csak c és d",
+        "csak a, c és d"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 31,
+      "question": "Az alábbi állítások közül melyik NEM igaz a követelményelemzés céljával kapcsolatban?",
+      "options": [
+        "A követelményelemzés agilis környezetben a leghatékonyabb",
+        "A követelményelemzés hozzájárul a projekttervezéshez.",
+        "A követelményelemzés lehetővé teszi az ügyfél igényeinek és elvárásainak megállapítását a tervezett megoldással kapcsolatban.",
+        "A követelményelemzés olyan folyamatokat biztosít, amelyek az érdekelt felek igényeit részletes, dokumentált követelményekké alakítják."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 32,
+      "question": "Az alábbi állítások közül melyik számít megszorító követelménynek?",
+      "options": [
+        "A rendszernek képesnek kell lennie a jármű mozgására vonatkozó szükséges információk rögzítésére",
+        "Az alkalmazás első kiadását 3 hónapon belül be kell fejezni",
+        "Az alkalmazásnak minden jelentést 15 percen belül fel kell dolgoznia",
+        "Az alkalmazásfejlesztésnek az agilis fejlesztési megközelítést kell követnie"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 33,
+      "question": "Az alábbiak közül melyik NEM célja a követelmények validálásának?",
+      "options": [
+        "Annak biztosítása, hogy a megfelelő verziókezelés van használatban",
+        "Annak biztosítása, hogy a dokumentáció megfeleljen a vállalati szabványoknak",
+        "Annak biztosítása, hogy a követelmények megfeleljenek a minőségi kritériumoknak",
+        "Annak biztosítása, hogy a követelmények megfeleljenek az üzleti igényeknek"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 34,
+      "question": "Válassza ki a két helyes állítást a szójegyzékkel kapcsolatban!",
+      "options": [
+        "A szójegyzéknek könnyen elérhetőnek kell lennie",
+        "A szójegyzéket az érdekelt felekkel egyeztetni kell",
+        "A szójegyzéknek példákat kell tartalmaznia.",
+        "A szójegyzéket a projekt során nem szabad megváltoztatni",
+        "A szójegyzékek elsősorban a biztonságkritikus rendszerek esetében hasznosak."
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 35,
+      "question": "Az attribútumok a követelmények további jellemzőinek kezelésére szolgálnak. A prioritás egy példa az ilyen követelményattribútumra. Az alábbi állítások közül melyek igazak a követelmények rangsorolásával kapcsolatban? A rangsorolás egyik oka ______",
+      "options": [
+        "Annak dokumentálása, hogy mennyibe kerülne a követelmény megvalósítása",
+        "Annak meghatározása, hogy a követelmény végrehajtása mennyire fontos az érdekelt fél számára",
+        "Annak eldöntése, hogy melyik követelményre kell különös figyelmet fordítani a tesztelés során",
+        "Annak felismerése, hogy mely követelmények használhatók fel újra"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 36,
+      "question": "A Kano-modell leírja, hogy nem könnyű megtalálni az elégedetlenkedőket. Mi a legjobb megtalálási technika számukra?",
+      "options": [
+        "Helyszíni megfigyelés",
+        "Kérdőív",
+        "Interjú",
+        "Brainstorming"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 37,
+      "question": "Egy vállalat követelménytervező mérnökeként önnek követelménykezelő eszközt kell kiválasztania. Az alábbi állítások közül mely KETTŐt kell figyelembe venni ebben a kontextusban?",
+      "options": [
+        "Az eszköznek lehetőséget kell nyújtania a választott követelményrendszerben szükséges dolgok kezelésére",
+        "Az eszköz kiválasztását befolyásolja az a eszközlánc, amelybe az eszközt integrálni kell.",
+        "Az eszköz kiválasztását alapvetően a meghatározható attribútumok rugalmassága határozza meg",
+        "Az eszköz kiválasztását az eszköz felhasználóira kell bízni.",
+        "Az eszköz kiválasztásának egyetlen szempontja az ára."
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 38,
+      "question": "Az alábbiakban egy követelménydokumentum kivonatát közöljük: \n\nA1: A rendszernek képesnek kell lennie a magánbetegek és az egészségbiztosítási betegek nyilvántartására és folyamatos számozására , ha több mint 100 betegről van szó.\nA7: Ez azonban nem vonatkozik a külföldi betegekre. \nA3: A rendszer képes jelentések nyomtatására is. \n\nJelölje meg a jó követelmények dokumentálására vonatkozó iránymutatások három legsúlyosabb megsértését az alábbiak közül:",
+      "options": [
+        "\"és ... ha van ...\" az A1-ben nem egyértelmű, egymásba fonódó mondatszerkezetet eredményez",
+        "Az A3-ban szereplő \"is\" szó téves",
+        "Az A7-ben lévő \"ez\" nem egyértelmű, mire vonatkozik",
+        "A követelmények nem növekvő sorrendbe vannak rendezve",
+        "A1 szükségtelenül fogalmaz meg két követelményt egy mondatban."
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 39,
+      "question": "Egy üzleti elemzőt épp most tájékoztatott a projektvezetője arról, hogy egy alapkövetelményt törölni fognak a készletből, hogy a projektet rövidebb időn belül be lehessen fejezni. A követelménykezelés mely elemei igényelnek figyelmet erre az eseményre válaszul?",
+      "options": [
+        "Változás ellenőrzés, a követelmények eredete és tulajdonjoga",
+        "Változás ellenőrzés, a követelmények azonosítása",
+        "Követelmények kereszthivatkozása, változás ellenőrzés",
+        "Követelmények azonosítása, Követelmények kereszthivatkozása"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 40,
+      "question": "Az alábbiak közül melyik a követelmények feltárásának célja?",
+      "options": [
+        "Követelmények összegyűjtése",
+        "Követelmények dokumentálása",
+        "Követelmények validálása",
+        "Követelmények vizionálása",
+        "Követelmények megtervezése"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 41,
+      "question": "A következő követelmények vonatkoznak egy új call center ügyfélkezelési rendszerre:\n\nREQ#1: Az operátornak lehetővé kell tennie, hogy délután 5 órakor elhagyja a munkahelyét\nREQ#2: Lehetővé kell tennie a felhasználók számára, hogy a rendszert a világ bármely pontján működtessék.\nREQ#3: Lehetővé kell tennie az ügyfél számára a hívás naplózását.\nREQ#4: Angol nyelven kell megvalósítani.\nREQ#5: Lehetővé kell tennie az operátor számára a hívásrekordok módosítását és törlését.\n\nA követelményelemzés a következőket ellenőrzi: \na. Potenciálisan megvalósíthatatlan követelmények.\nb. A megoldást előre meghatározó követelmények. \nc. Olyan követelmények, amelyek valójában több követelményből állnak. \nd. Ellentétes követelmények. \ne. Olyan követelmények, amelyek nem kapcsolódnak az üzleti célhoz\n\nA fenti problémák közül melyik azonosítható ebben a követelményrendszerben?",
+      "options": [
+        "csak a, c és e",
+        "csak a, b és c",
+        "csak c, d és e",
+        "csak b, c és e"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 42,
+      "question": "Az alábbi részlet egy követelményfeltárási útmutatóból származik:\n\nElőnyök:\nKözvetlen hozzáférést biztosít a munkakörnyezethez\nérvényes, mélyreható megértést biztosít\nleleplezi a hallgatólagos tudást \n\nHátrányok: \nIdőigényes, drága\nbefolyásolhatja a helyzetet, és így a felmerülő követelményeket is. \n\nMelyik kérdezési módszerre utal a részlet?",
+      "options": [
+        "Megfigyelés",
+        "Interjú",
+        "Workshop",
+        "Brainstorming"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 43,
+      "question": "Az agilis változásmenedzsmenttel kapcsolatos alábbi állítások közül melyik érvényes?",
+      "options": [
+        "Egy változtatás felvétele a backlogba befolyásolhatja egy másik backlog item időben megvalósíthatóságát.",
+        "Egy változtatás felvétele a backlogba automatikusan maga után vonja egy másik backlog elem eltávolítását",
+        "Ha változtatási kérelmeket használnak, akkor a Változtatási tanácsadó testület felülvizsgálatára van szükség.",
+        "Az agilis projektekben bekövetkező változásoknak nincs vezetői hatása"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 44,
+      "question": "Az alábbi állítások közül melyik nem igaz a felhasználói történetekre vonatkozóan?",
+      "options": [
+        "A felhasználói történetek általában a kiadás és az iteráció tervezése során finomodnak.",
+        "A felhasználói történeteket a fejlesztők írhatják",
+        "A nagyobb felhasználói történeteket néha \"epics\"-eknek nevezik.",
+        "A felhasználói történetek egyszerű, tömör formában rögzítik a követelmény \"ki\", \"mi\" és \"miért\" kérdéseit.",
+        "A felhasználói történeteket egy fejlesztőkből, tesztelőkből és üzleti képviselőkből álló csapat írja."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 45,
+      "question": "Miután átadta a követelménydokumentumot a követelményeket megvalósító a szolgáltatónak, belső felülvizsgálatra kerül sor. A felülvizsgálat megállapítja, hogy a következő követelményt elfelejtette: \"A megrendelés feldolgozásának minden egyes lépésénél a felhasználónak képesnek kell lennie legfeljebb 10 lépés visszavonására. Ez nem vonatkozik a már befejezett megrendelésekre.\" Követelménytervezőként hogyan reagálna a legjobban erre a helyzetre?",
+      "options": [
+        "Változtatási kérelmet nyújtok be és továbbítom értékelésre.",
+        "Telefonon tájékoztatom a szolgáltató projektmenedzserét az elfelejtett igényről.",
+        "Nem teszek semmit, mivel a követelmény teljesen szabványos, és így magától értetődő.",
+        "Közlöm a követelményeket a következő termékkiadásra vonatkozó visszajelzésekkel együtt.",
+        "Közlöm a követelményeket a fejlesztőcsapattal"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 46,
+      "question": "Az alábbi tulajdonságok közül melyik a LEGJOBB megközelítése egy agilis csapatnak?",
+      "options": [
+        "Az üzleti képviselők szorosan együttműködnek mind a fejlesztőkkel, mind a tesztelőkkel.",
+        "A csapat ösztönzi a nagyon speciális készségek elsajátítását minden egyes tagban.",
+        "A tesztelők felelősek a minőségért",
+        "A csoportban egy követelményelemzőnek és egy üzleti képviselőnek is részt kell vennie."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 47,
+      "question": "Válaszd ki az alábbiak közül a megfelelő iránymutatásokat a követelménydokumentumok érthetővé tételéhez:",
+      "options": [
+        "Mondatonként legfeljebb egy követelmény",
+        "Győződjön meg a terminológia konzisztensségéről",
+        "Szöveg helyett lehetőleg grafikákat használjon",
+        "Óvatosan használja az olyan szavakat, mint a \"kell\" és a \"lehet\".",
+        "A fontos követelmények dőlt betűvel történő kiemelése",
+        "Passzív hang használata"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 48,
+      "question": "Jelöld meg, hogy az alábbi állítások közül melyek igazak:",
+      "options": [
+        "A rendszer kontextusát csak azután kell dokumentálni, hogy a rendszer és a kontextus szétválasztása befejeződött",
+        "A rendszer és a környezet közötti tisztázatlan határvonal azt jelzi, hogy a rendszer és a környezet közötti kapcsolódási pontok még nem kerültek egyértelműen meghatározásra.",
+        "A nem egyértelmű határokat gyakran sokáig nem ismerik fel a rendszerkontextus hiányzó dokumentációja miatt.",
+        "A rendszer és a kontextus közötti tisztázatlan határvonal főként az RE-folyamat kezdetén létezik, és azt az RE-fejlesztési folyamat során kell feloldani."
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 49,
+      "question": "A követelmények és a követelménydokumentumok nyomon követhetősége fontos szempont a követelmények kezelésében. Az alábbi állítások közül melyek igazak?",
+      "options": [
+        "Az egyes követelmények között nyomon követhetőség lehetséges",
+        "A követelmények és a tesztelési esetek között nyomon követhetőségre van szükség.",
+        "A követelmények és a szerződések között nyomon követhetőségre van szükség",
+        "A követelmények és a szabványok között aligha lehetséges a nyomon követhetőség"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 50,
+      "question": "Az agilis követelménytervezési munkafolyamatot figyelembe véve, melyik szinten készül a Product Backlog és a Sprint Backlog?",
+      "options": [
+        "A program szintjén készül a Product Backlog, a csapat szintjén pedig a Sprint Backlog.",
+        "A csapatszint mindkét Backlogot létrehozza",
+        "A program szintjén készül mindkettő.",
+        "Az üzletiszint mindkét Backlogot előállítja"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 51,
+      "question": "Az alábbi állítások közül melyik NEM igaz a követelménytervezéssel kapcsolatban egy agilis környezetben?",
+      "options": [
+        "A követelményekkel kapcsolatos kötelezettségvállalásokat az ügyfél képviselője teszi meg",
+        "A követelményeket forgatókönyvek formájában lehet dokumentálni.",
+        "A nyomonkövethetőségi információk fenntartásának a legnagyobb értelme a méretarányos agilitási helyzetekben van.",
+        "A követelmények kezelése a Product Backlogban történik"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 52,
+      "question": "Fontolja meg a következő állításokat a fejlesztési folyamat lehetséges értékeiről: \nI. Ügyfél-együttműködés a terv követése felett \nII. Egyének és interakciók átfogó dokumentációval szemben\nIII. Működő szoftverek a folyamatok és eszközök felett \nIV. A szerződéskötés során bekövetkező változásokra való reagálás \n\nMelyek azok az agilis értékek, amelyeket az Agilis Kiáltvány hangsúlyoz?",
+      "options": [
+        "A többi válasz egyike sem helyes",
+        "I, III, IV",
+        "I, III",
+        "II, IV"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 53,
+      "question": "A Systems Modeling Language (SysML) egy általános célú modellező nyelv rendszertechnikai alkalmazásokhoz. Add meg, a modell hova tartoznak a modell alábbi részei (a SysMl-hez, az UML-hez, vagy mindkettőhöz)\nOsztály diagram",
+      "options": [
+        "SysML-hez",
+        "UML-hez",
+        "Mindkettőhöz"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 54,
+      "question": "Az UML-lel kapcsolatos alábbi állítások közül melyik NEM helyes?",
+      "options": [
+        "Az UML támogatja a rendszerek rendszereinek modellezését",
+        "Az UML egy egységes jegyzetrendszer a rendszerek elemzésére és tervezésére.",
+        "Az UML támogatja a rendszer különböző nézeteinek modellezését",
+        "Az UML lehetővé teszi a szoftver strukturális aspektusainak modellezését"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 55,
+      "question": "Az alábbiak közül melyiket kell meghatározni a projekt jövőképében?",
+      "options": [
+        "Az elérendő célok",
+        "Megoldások",
+        "A projekt ütemezése",
+        "Mérhető célok"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 56,
+      "question": "A tények informális és strukturálatlan leírásából kiindulva a fél-formális leírási technikák megpróbálnak egy lépést tenni a formalitás irányába, például a félreértések elkerülése érdekében. A fél-formális leírási technikák egyike a mondatmintázat. Mi a legpontosabb definíciója a követelményeknél használt mondatsablonnak?",
+      "options": [
+        "A mondatsablon az egyedi követelmény szintaktikai szerkezetének tervezete.",
+        "A mondatsablon a követelmény szintaxisának és szemantikájának tervezete.",
+        "A mondatsablon az egyes követelményelemek szemantikai kitöltésének tervezete.",
+        "A mondatsablon egy üzleti követelmény tervezete"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 57,
+      "question": "Ön követelményrendszer-tervező mérnökként dolgozik egy olyan vállalatnál, amely vezérlőszoftvert fejleszt elektromos motorokhoz. . Munkája során egyre inkább kiderül, hogy a fejlesztők nagyon is tisztában vannak a szükséges követelményekkel, de a követelmények azonban nincsenek teljesen dokumentálva. Ezért úgy dönt, hogy a követelményeket szisztematikusan dokumentálja. Az alábbi érvek közül melyik indokolja ezt a lépést? (Válasszon kettőt!) A követelmények szisztematikus dokumentálása azért fontos, mert . . . .",
+      "options": [
+        "A nem dokumentált követelményekről nehéz tárgyalni az érdekelt felek között.",
+        "Ellenkező esetben a követelmények lefedettsége a tesztelés során nem ellenőrizhető automatikusan.",
+        "Dokumentált követelmények nélkül nem lehetséges a végrehajtás",
+        "A dokumentált követelmények is jó követelmények",
+        "A dokumentáció az Agile fő előnye"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 58,
+      "question": "Egy online könyvesbolt létrehozásában vesz részt. Ellenőrizze, hogy az alábbi állítások funkcionális vagy minőségi követelményeket fejeznek-e ki.",
+      "options": [
+        "A rendszernek angol, német és francia nyelven kell rendelkezésre állnia - minőségi\nA rendszer a felhasználó számára a korábban megrendelt könyvek listáját biztosítja. - funkcionális\nA rendszernek legalább 1000 tranzakciót kell támogatnia óránként - minőségi\nA rendszernek lehetővé kell tennie a felhasználó számára, hogy szerző és cím alapján keressen könyveket - funkcionális\nA rendszernek minden felhasználó számára 24/7-ben elérhetőnek kell lennie - minőségi"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 59,
+      "question": "A következő állítások közül melyik nem igaz az érdekelt felekkel kapcsolatban?",
+      "options": [
+        "Az érdekeltek nem kerülhetnek összeférhetetlenségbe egymással.",
+        "Az érdekeltek befolyásolják a projekt eredményét, vagy a projekt kimenetele befolyásolja őket.",
+        "A projekt érdekeltjei lehetnek egyének és szervezetek",
+        "Az érdekeltek közé tartoznak a végfelhasználók, az ügyfelek, a fejlesztőcsapat és a külső szervek"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 60,
+      "question": "Mi a fő probléma az alábbi követelmény leírásával kapcsolatban?\n \"A rendszernek használhatónak kell lennie.\"",
+      "options": [
+        "A mérhetőség hiánya",
+        "Gondolkodás megoldásokban",
+        "Inkonzisztencia",
+        "A nyomonkövethetőség hiánya"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 61,
+      "question": "Mi a prototípus célja?",
+      "options": [
+        "Olyan koncepció bizonyíték létrehozása, amely választ ad a következők egyikére (vagy többre):\n(1) Mit akarunk elérni? \n(2) Hogyan akarjuk elérni? \n(3) Hogyan biztosítjuk a megfelelő minőséget?",
+        "Technológia átadás, melynek célja, hogy új módszereket mutassanak be a vezetők számára, amelyek segítenek megjeleníteni a megvalósítható, reális célokat, amelyek az ezt követő kérések végrehajtásakor elérhetők lehetnek.",
+        "Fejlesztési módszertan megvalósítása, amelynek fő elemei a következők: \n(1) Előzetes konzultáció az ügyféllel, \n(2) Elfogadási tesztek meghatározása az ügyféllel folytatott konzultáció alapján, majd csak olyan fejlesztési lépések végrehajtása, amelyek megfelelnek ezeknek a teszteknek, \n(3) A tesztek kiterjedt dokumentálása.",
+        "Megfelelően robusztus és jól átgondolt architektúra létrehozása, amelyre a későbbi termék éles fejlesztései építhetők"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 62,
+      "question": "Melyek egy meglévő termék esetében az új módosítási kérelem (CR) végrehajtásának kezdeti lépései a következők közül?",
+      "options": [
+        "(1) Az ügyfél írja a CR-t, (2) pólóméret becslése, (3) feladat egyeztetés az ügyféllel és a funkció specifikációjának előkészítése.",
+        "(1) konzultáció az ügyféllel, (2) Cavendish-elemzés, (3) prototípus-készítés, (4) elfogadási tesztek.",
+        "(1) Az ügyfél írja a CR-t, (2) Cavendish-elemzés, (3) megvalósítás, (4) elfogadási tesztek.",
+        "(1) Az ügyfél írja a CR-t, (2) Cavendish-elemzés, (3) architektúra-tervezés, (4) elfogadási tesztek."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 63,
+      "question": "Az alábbiakban négy okot sorolunk fel, amiért a követelmények egyes összetevőinek különböző nézeteit használják az összes követelményt és attribútumot megjelenítő egyetlen nézet helyett. Az alábbi okok közül melyek igazak?",
+      "options": [
+        "Az érdekeltek csak a dokumentáció számukra releváns részét kapják meg.",
+        "Az összetartozó követelményeket a felülvizsgálati folyamat megkönnyítése érdekében csoportosítják.",
+        "Annak érdekében, hogy a követelményeket elrejtsék bizonyos érdekeltek elől, akik nem rendelkeznek olvasási jogosultsággal.",
+        "Annak biztosítása érdekében, hogy egynél több személy dolgozhasson egyszerre egy specifikáción."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 64,
+      "question": "A követelményspecifikáció tartalmazza a követelmények tulajdonságainak leírását. Az alábbiakban felsorolt tulajdonságok közül melyek használhatók követelményattribútumként?",
+      "options": [
+        "A követelmény fenntartási erőfeszítései",
+        "A követelmény kritikussága",
+        "A követelmény végrehajtásáért való felelősség",
+        "Az a kiadás, amelyben a követelményt először hajtják végre produktívan.",
+        "A követelmény jogilag kötelező ereje"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "multipleChoice": true
+    },
+    {
+      "id": 65,
+      "question": "Melyik dokumentumot készíti a rendszerelemző, miután összegyűjtötte a követelményeket a különböző érdekelt felektől?",
+      "options": [
+        "Szoftverkövetelmény specifikáció",
+        "Szoftverkövetelmények validálása",
+        "Megvalósíthatósági tanulmány",
+        "Követelménygyűjtés"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "multipleChoice": false
+    },
+    {
+      "id": 66,
+      "question": "Az alábbi követelménymondatok közül melyek jól megfogalmazottak?",
+      "options": [
+        "Az űrhajónak meg kell védenie a legénységet egy 400 kg-os becsapódási erővel szemben",
+        "A járműnek lehetővé kell tennie a vezető számára, hogy a kormánykeréken lévő kezelőszervek segítségével egy kézzel kikapcsolja az automatikus sebességtartó automatikát/létrehozó funkciót.",
+        "A rendszernek 0,5 másodpercen belül frissítenie kell az adatokat.",
+        "A rendszer nem engedheti meg külső felhasználók számára a hozzáférést"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "multipleChoice": true
+    },
+
+        {
+          "id": 67,
+          "question": "Add meg, hogy az alábbi irányelvek közül melyeket kell betartani a követelményspecifikáció megírásakor:\n\nA. A fejlécek számának minimalizálása a dokumentum méretének csökkentése érdekében. \nB. Csak egy követelmény mondatonként, nincs követelmények egymásba ágyazása. \nC. A jogilag kötelező érvényű követelményeket kiemelése dőlt betűvel. \nD. Következetes terminológia használata. \nE. Érdekes és sokszínű írásmód. \nF. Mondatsablonok használata a követelmények megfogalmazásához. \nG. Rövid mondatok és bekezdések használata. \nH. Ismeretlen kifejezések Wikipédiára való hivatkozásokkal ellátva",
+          "options": [
+            "A. A fejlécek számának minimalizálása a dokumentum méretének csökkentése érdekében.",
+            "B. Csak egy követelmény mondatonként, nincs követelmények egymásba ágyazása.",
+            "C. A jogilag kötelező érvényű követelményeket kiemelése dőlt betűvel.",
+            "D. Következetes terminológia használata.",
+            "E. Érdekes és sokszínű írásmód.",
+            "F. Mondatsablonok használata a követelmények megfogalmazásához.",
+            "G. Rövid mondatok és bekezdések használata.",
+            "H. Ismeretlen kifejezések Wikipédiára való hivatkozásokkal ellátva"
+          ],
+          "correctAnswers": [
+            1,
+            3,
+            5,
+            6
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 68,
+          "question": "Melyik meghatározás jellemzi legjobban a „nyomonkövethetőség\" fogalmát a követelményrendszer szempontjából?",
+          "options": [
+            "A követelmények feltárására tett erőfeszítések nyomon követhetősége, a dokumentáció feltárásától kezdve egészen a követelmények elfogadásáig.",
+            "A követelmények feltárása során elért előrehaladás nyomon követése.",
+            "A követelmények ellentmondásos tartalmának ellenőrzésére való képesség, különösen a követelmények és a tesztelési esetek között.",
+            "A követelmények nyomon követhetősége, a követelményekkel együtt a kapcsolódó dokumentumokkal együtt, a követelmények feltárásától kezdve a megvalósításig.",
+            "A stabilizáció szintje a feltárt és a jóváhagyott követelmények között."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 69,
+          "question": "Az céged csak szövegfeldolgozást használ eszközként a követelmények kezelésében. Melyik két alapvető követelménykezelési feladatot támogatja legkevésbé ez az eszköz?",
+          "options": [
+            "Az egyes követelmények verziókezelése",
+            "Eredménydokumentumok létrehozása",
+            "Követelmények nyomon követése",
+            "Grafikus modellek létrehozása",
+            "A követelmények és célok dokumentálása"
+          ],
+          "correctAnswers": [
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 70,
+          "question": "Az céged intenzíven dolgozik UML modellekkel a követelménytervezésben. Melyik három képességgel kell rendelkeznie egy modellező eszköznek ahhoz, hogy képes legyen nyomon követhető modelleket készítsen a követelményrendszerben?",
+          "options": [
+            "A modellelemek verziókezelve legyenek",
+            "A modelleket ellenőrizni kell az UML definíciónak való megfelelőség szempontjából",
+            "A modell XML formátumban exportálható",
+            "Minden modellelemnek rendelkeznie kell azonosítóval",
+            "A modellelemek hiperhivatkozásokkal összekapcsolhatók",
+            "A modellező eszköz a vezetésnek megfelelő kimutatásokat készít"
+          ],
+          "correctAnswers": [
+            0,
+            2,
+            4
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 71,
+          "question": "Melyik két állítás helyes egy követelményelemző eszköz bevezetésével kapcsolatban?",
+          "options": [
+            "Az eszköz bevezetése meghatározza a jövőbeni követelményelemző megközelítést.",
+            "A bevezetéssel kapcsolatos kockázatok egy kísérleti művelet segítségével azonosíthatók.",
+            "A követelményelemzési folyamatokat a bevezetés előtt világosan meg kell határozni.",
+            "A licenszköltségek jelentik általában a legnagyobb költséget egy ilyen eszköz bevezetésekor."
+          ],
+          "correctAnswers": [
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 72,
+          "question": "A követelménytervezésben különbséget tesznek a a rendszer hatóköre és a kontextus hatóköre között. Mindkettőben előfordulhat, hogy úgynevezett szürke zónák jelenhetnek meg. Mely mondatok igazak?",
+          "options": [
+            "A rendszer hatókörével kapcsolatos szürke zónának azonnal, a követelménytervezés kezdetén fel kell oldani.",
+            "A rendszerkörnyezet irreleváns része nincs hatással a fejlesztendő rendszerrel szemben támasztott követelményekre.",
+            "A kontextushatár az a határvonal, amely elválasztja a követelménytervezés tárgyait az irreleváns szempontoktól.",
+            "A kontextus hatókörével kapcsolatos szürke zóna olyan szempontokat foglal magában, amelyek nem egyértelműek a tekintetben, hogy hatással vannak-e a rendszerre vagy sem."
+          ],
+          "correctAnswers": [
+            1,
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 73,
+          "question": "A rendszer és a rendszerkontextus lehatárolásakor különbséget teszünk a rendszerhatár és a kontextus határa között. Válassza ki a két helyes állítást.",
+          "options": [
+            "A kontextushatár elválasztja a rendszert a a rendszer környezetétől.",
+            "A rendszerhatár és a kontextushatár határozzák meg a rendszer környezetét.",
+            "A rendszerkörnyezet magában foglal minden olyan szempontot, amely nem relevánsak a tervezett rendszer követelményei szempontjából.",
+            "Csak a rendszerhatáron belüli szempontokat kell kell figyelembe venni a fejlesztendő rendszer követelményeinek meghatározásához.",
+            "A rendszerhatár kiválasztása meghatározza, hogy a fejlesztendő rendszer mely szempontokra terjed ki, és melyek azok, amelyek kívül esnek a rendszer hatókörén."
+          ],
+          "correctAnswers": [
+            0,
+            1
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 74,
+          "question": "Melyik két információt kell mindig rögzíteni az érdekelt felek listáján?",
+          "options": [
+            "Az érdekeltek fontossága",
+            "Szerepek megnevezése",
+            "A vállalatnál eltöltött idő",
+            "Fegyelmi felettes",
+            "Korábban elvégzett projektekre vonatkozó referenciák"
+          ],
+          "correctAnswers": [
+            1,
+            2
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 75,
+          "question": "Egy intenzív osztályon új rendszert kell kifejleszteni a betegek életfunkcióinak nyomon követésére. A rendszer használhatósága különösen kritikus, elsősorban azért, mert az ápolószemélyzetnek helyesen kell értelmeznie a készülék által jelzett információkat és nagy időnyomás alatt kell elvégezniük. Melyik két technika a legalkalmasabb a felhasználói követelmények azonosítására?",
+          "options": [
+            "Kérdőívek / interjúk",
+            "Szakképzés",
+            "Terepi felmérések",
+            "Szerepjáték",
+            "Brainstorming"
+          ],
+          "correctAnswers": [
+            0,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 76,
+          "question": "Követelmények feltárása: Az Ön cége megbízást kapott egy rendszer kifejlesztésére, a megrendelő kiszállító kocsijainak ütemezéséhez. Az Ön feladata, hogy azonosítsa az ütemező rendszerrel kapcsolatos követelményeket. Az alábbi kérdések közül melyik a legmegfelelőbb interjúkérdés a követelmények feltárásához?",
+          "options": [
+            "Melyek az alkalmazás szempontjából legfontosabb szakkifejezések, és hogyan vannak meghatározva?",
+            "Ha a szállítási határidőt nem tartják be, kell-e kötbért fizetni?",
+            "Milyen adatmennyiségeket / adatsebességeket kell feldolgozni?",
+            "Mikor kell megkezdeni az elkészült rendszer telepítését?"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 77,
+          "question": "Egy követelménydokumentumot úgy szeretne megtervezni, hogy az különösen jól illeszkedjen a projekt résztvevőihez, akiknek a továbbiakban azzal kell dolgozniuk. Kérjük, válassza ki az alábbi állítások közül a két legmegfelelőbb követelménytulajdonságok hozzárendelését a résztvevőkhöz.",
+          "options": [
+            "A tesztelők számára a követelményeknek megvalósíthatónak kell lenniük.",
+            "A fejlesztők számára a követelményeknek könnyen módosíthatónak kell lenniük.",
+            "Minden résztvevő számára a követelményeknek konzisztensnek kell lenniük.",
+            "A projektmenedzser számára a követelményeknek értékelhetőnek kell lenniük.",
+            "A karbantartás számára a követelményeknek tesztelhetőnek kell lenniük."
+          ],
+          "correctAnswers": [
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 78,
+          "question": "A természetes nyelvi követelmények dokumentálására mondatsablonok használhatók. Ön egy ilyen mondat-sablont szeretne bevezetni a projektjében, és meg kell győznie a projektmenedzsert az előnyeiről. Melyik két érvet hozza fel leginkább ebben a vitában?",
+          "options": [
+            "A magas színvonalú követelmények már a kezdeti dokumentációtól kezdve garantáltak.",
+            "A mondatsablon szerint megfogalmazott követelmények nem tartalmaznak nyelvi transzformációs hatásokat.",
+            "A mondatsablonok szerinti követelmények megfogalmazása rövid idő alatt megtanulható.",
+            "A mondatsablon használata alapvetően nagyobb információtartalmat biztosít.",
+            "A mondatminta szerint megfogalmazott követelmény megfelel a követelményekkel szemben támasztott valamennyi minőségi kritériumnak."
+          ],
+          "correctAnswers": [
+            0,
+            1
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 79,
+          "question": "Követelményelemző mérnökként a követelmények sokféle változatával foglalkozol. A természetes nyelvű funkcionális követelmények sablonja segíthet neked a rendszertevékenységek különböző formáinak pontosabb megfogalmazásában. Melyik kétféle rendszertevékenység tartozik a támogatott tevékenységek közé?",
+          "options": [
+            "Felhasználói interakció",
+            "Műszaki követelmény",
+            "Minőségi követelmények",
+            "Független rendszertevékenység",
+            "Rendszerkövetelmény"
+          ],
+          "correctAnswers": [
+            0,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 80,
+          "question": "Önnek egy internetes banki szoftverre vonatkozó követelményspecifikációt kell készítenie. A rendszernek banki átutalásokat kell végrehajtania, ezért a felhasználótól többek között a banki azonosító kódot és a bank nevét is megkapja. Mostanra a dolgok úgy változtak, hogy a felhasználónak csak a banki azonosító kódot kell megadnia, és a bank neve már nem szükséges. A dokumentációjának melyik 2 részén kell leginkább dolgoznia ahhoz, hogy ezt a változást beépítse?",
+          "options": [
+            "Sehol, mivel ez az architektúra részlete.",
+            "Abban a fejezetben, amelyben a rendszer állapotai vannak leírva",
+            "Ahogy a célok változását közölték, a specifikációban szereplő célokat frissíteni kell.",
+            "Ha a rendszer bemeneteiről és kimeneteiről van szó, akkor ezt a változást be kell dolgozni a kontextusdiagramba.",
+            "Ki kell igazítani az osztálymodellt és/vagy az adatmodellt, amelyek a rendszer bemeneti és kimeneti adatainak szerkezetét írják le."
+          ],
+          "correctAnswers": [
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 81,
+          "question": "A követelmények kezelésének egyik tevékenysége a követelmények rangsorolása. Az alábbi kritériumok közül melyik nem ésszerű kritérium a rangsoroláshoz?",
+          "options": [
+            "A meglévő működési rendszerre (működési környezetre) gyakorolt hatás.",
+            "A vállalkozás általános sikerére gyakorolt hatás",
+            "A követelmények érvényesítésére tett erőfeszítések nagysága",
+            "A követelmények megvalósításából eredő költségek",
+            "Mely követelményeket melyik kiadásban kell megvalósítani"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 82,
+          "question": "A követelménytervezésben a modellalapú dokumentáció használata nagyon hasznos. Az alábbi diagramok közül melyik kettő segít a követelménymodell strukturális szemléletének ábrázolásában?",
+          "options": [
+            "Egyed-kapcsolat diagram",
+            "Állapotdiagram",
+            "Telepítési diagram",
+            "Osztálydiagram",
+            "Adatok diagramja"
+          ],
+          "correctAnswers": [
+            0,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 83,
+          "question": "A követelménydokumentáció lehet természetes nyelvi vagy modellalapú. Melyik két állítás a legmegfelelőbb?",
+          "options": [
+            "Ha a dokumentáció modellalapú, a természetes nyelvi dokumentáció nélkülözhető.",
+            "Mivel a modellek formálisabbak, a természetes nyelvhez képest nagyobb fokú egyediséget biztosítanak.",
+            "A követelménytervezésben a modellek alkalmasabbak a szöveges leírásoknál a vizsgált entitás komplexitásának csökkentésére.",
+            "A modellalapú és a természetes nyelvi dokumentáció közötti döntés során a modellalapú előnyben részesítendő."
+          ],
+          "correctAnswers": [
+            0,
+            1
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 84,
+          "question": "A követelménymérnök egyik feladata a követelmények egyeztetése. Ezen a ponton konfliktusok lehetnek az érdekelt felek között, melyeket fel kell oldani. Ebben a folyamatban különbséget kell tenni a konfliktusok különböző fajtái között. A felsorolt konfliktusok közül melyik kettő kezelésre képes legkevésbé a követelménymérnök?",
+          "options": [
+            "Tárgyi konfliktus",
+            "Értékkonfliktus",
+            "Építészeti konfliktus",
+            "Költségkonfliktus",
+            "Szerkezeti konfliktus"
+          ],
+          "correctAnswers": [
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 85,
+          "question": "A követelmények validálása a követelménytervezés egyik fő tevékenysége. Az alábbi technikák közül melyik négy alkalmas a követelmények validálására?",
+          "options": [
+            "Az érdekelt felek elemzése",
+            "Végigjárás",
+            "Rangsorolás",
+            "Monitoring",
+            "Részekre osztás",
+            "Szakképzés",
+            "Általánosítás",
+            "Validálás egy interfész prototípus használatával",
+            "Perspektíva alapú olvasás",
+            "Ellenőrzés",
+            "Vizualizáció"
+          ],
+          "correctAnswers": [
+            1,
+            7,
+            8,
+            9
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 86,
+          "question": "Ön egy logisztikai ágazatban tevékenykedő vállalatnál követelményelemző mérnökként dolgozik, és részt vesz egy olyan projektben, amelynek célja, hogy az áruk elosztására és szállítására szolgáló régi alkalmazást egy új rendszerrel váltsa fel. Egy kolléga már létrehozott egy kontextusdiagramot. Önt bízzák meg ennek ellenőrzésével. Mely mondatok igazak?",
+          "options": [
+            "A rendszer feladatkiosztása nem vezethető le a diagramból.",
+            "A teherautó és a teherautó vezetője közötti kapcsolat nem szükséges.",
+            "A „????\" megnevezésű szereplőt és az „Áruk????\" adatáramlást el kell hagyni, mert nincs róluk elegendő információ, és túl sok a félreérthetőség.",
+            "A rakodódaru és a rendszer közötti kapcsolat nincs elég részletesen meghatározva."
+          ],
+          "correctAnswers": [
+            0,
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 87,
+          "question": "Egy projektben szeretné meghatározni a technikailag releváns kifejezéseket. Válassza ki az igazakat az alábbi állítások közül, hogy kiegészítse a mondat elejét.",
+          "options": [
+            "...a követelménydokumentumok kívánatos, de nem feltétlenül szükséges eleme.",
+            "...meghatározza a műszaki kifejezések jelentését a specifikálandó rendszer szempontjából.",
+            "...projektközi jellegűnek kell lennie.",
+            "...mindig további példák és ellenpéldák segítségével válik érthetőbbé."
+          ],
+          "correctAnswers": [
+            1,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 88,
+          "question": "Megbízták, hogy elemezzen egy változtatási kérelmet annak lehetséges hatásait illetően. Az alábbi szempontok közül melyeket kell ehhez elemezni?",
+          "options": [
+            "A változtatás indokoltságát",
+            "A változás miatt módosítandó teszteseteket.",
+            "A változtatással járó erőfeszítéseket.",
+            "A változás által érintett érdekelt feleket."
+          ],
+          "correctAnswers": [
+            1,
+            2,
+            3
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 89,
+          "question": "Ön egy olyan rendszer projektmenedzsere, amelyet cége a hadsereg számára hoz létre a logisztika területén. A projekthez egy követelményelemző mérnököt rendeltek ki, aki azonban nem rendelkezik a szerepkörhöz szükséges összes kívánatos készséggel. Az alábbi tulajdonságok tekintetében a követelményekkel foglalkozó mérnökre vonatkozóan az alábbi állítások közül melyik jelenti a legnagyobb kockázatot a követelmények kidolgozására nézve?",
+          "options": [
+            "A követelménymérnök nem ismeri a katonai ranglétrát, ezért nem tudja megfelelően kezelni a hierarchikus érzékenységeket.",
+            "A követelménymérnök nem rendelkezik részletes ismeretekkel a rendszerre alkalmazandó katonai normákról és szabványokról.",
+            "A követelménymérnök nem rendelkezik szilárd projektmenedzsment-képzéssel.",
+            "A követelménymérnök introvertált, és nem ismeri a követelmények megállapítását és dokumentálását."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 90,
+          "question": "Az alábbi állítások közül melyik jellemzi legjobban a követelménymérnök és az érdekelt fél kapcsolatát egy tesztelő szerepében?",
+          "options": [
+            "A követelménymérnök inputot szolgáltat az érdekelt fél munkájához.",
+            "A követelménymérnök kimenetét az érdekelt fél kezeli.",
+            "Az érdekelt fél szolgáltat inputot a követelménymérnök számára.",
+            "Az érdekelt fél ellenőrzi a követelménymérnök munkáját.",
+            "A követelménymérnök munkája nem kapcsolódik az érdekelt fél szerepéhez."
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 91,
+          "question": "Önt azzal bízzák meg, hogy végezze el és dokumentálja egy fejlesztendő szoftverrendszer rendszer- és kontextushatárolását. Melyik diagram a legkevésbé alkalmas a lehatárolás ábrázolására?",
+          "options": [
+            "Osztálydiagram",
+            "Használati eset diagram",
+            "Állapotdiagram",
+            "Kontextus diagram adatfolyamokkal"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 92,
+          "question": "A Kano-modell szerint a rendszerjellemzőknek van egy olyan különleges kategóriája, amely szinte lineáris kapcsolatban áll az elégedettség és a megfelelés mértéke között. Melyik kategória esetében van ez így?",
+          "options": [
+            "Alapvető attribútumok",
+            "Teljesítményjellemzők",
+            "Izgalmi attribútumok",
+            "Szükségletek",
+            "Célok"
+          ],
+          "correctAnswers": [
+            1
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 93,
+          "question": "Az „UniKasso\" projekt részeként a „CRETIL\" vállalat egységesíti a fizetési módokat minden ügyfél számára. A követelményspecifikáció elkészült, és jelenleg az első kiadás végrehajtása zajlik. Ezen a héten a vezetőség úgy döntött, hogy a „hitelkártya\" mód bevezetését is tartalmazza a fizetési mód bevezetését az első kiadásba, a „beszedési megbízás\" fizetési módot pedig a második kiadásba helyezi át. A tesztmenedzser megkapja a megbízást, hogy a teszttervezést ennek megfelelően módosítsa. A követelmények melyik konkrét jellemzője fogja jelentősen megkönnyíteni a tesztmenedzser munkáját ebben a tekintetben?",
+          "options": [
+            "Koherencia",
+            "Tesztelhetőség",
+            "Rugalmasság",
+            "Stabilitás",
+            "Nyomonkövethetőség"
+          ],
+          "correctAnswers": [
+            4
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 94,
+          "question": "A tények informális és strukturálatlan leírásából kiindulva a félformális leírási technikák megpróbálnak egy lépést tenni a formalitás irányába, például a félreértések elkerülése érdekében. A szemiformális leírási technikák egyike a mondatsablon. Mi a legpontosabb definíciója a követelményrendszerben használt mondatsablonnak?",
+          "options": [
+            "A mondatsablon egy követelmény tervezete.",
+            "A mondatsablon a szemantikai követelmény tervezete az egyes követelményelemek szemantikai kitöltéséhez.",
+            "A mondatsablon a követelmény szintaxisának és szemantikájának tervezete.",
+            "A mondatsablon az egyes követelmények szintaktikai szerkezetének tervezete."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 95,
+          "question": "Egy interjúra elkészített egy használati esetdiagramot a meghatározandó rendszerre vonatkozóan. Úgy dönt, hogy részletesen átbeszél egy használati esetet az érdekelt féllel. Nagyon hasznos visszajelzéseket kap, amelyeket most dokumentálni kell. Az alábbi kifejezési módok közül melyik a legkevésbé alkalmas egyetlen használati eset részleteinek dokumentálására?",
+          "options": [
+            "Állapotdiagram",
+            "Tevékenységi diagram",
+            "Természetes nyelv",
+            "Kontextus diagram",
+            "Osztály diagram"
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 96,
+          "question": "Egy követelményrendszer validálása céljából tartott megbeszélésen két résztvevő mélyreható vitába bocsátkozik egy követelmény tartalmáról. Az egyik résztvevő azon a véleményen van, hogy a követelményt a leírtak szerint kell megvalósítani, mivel ellenkező esetben a termék sikere veszélybe kerül. A másik fél ellenkezik, és azzal érvel, hogy ez a követelmény technikailag nem valósítható meg a leírtak szerint. Mi a legjobb módja annak, hogy reagáljon erre a helyzetre?",
+          "options": [
+            "Vegye tudomásul mindkét érvet, és hagyja, hogy a projektmenedzser döntsön.",
+            "Meghívja az összes érdekelt felet egy workshopra, és megpróbál megegyezésre jutni.",
+            "Ön a második véleményt részesíti előnyben, mivel úgy véli, hogy a megbeszélésnek nincs értelme, ha a követelmény nem valósítható meg.",
+            "Összeül az érintett érdekelt felekkel, és megpróbál megegyezésre jutni."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 97,
+          "question": "A rendszerfejlesztés során folyamatosan konfliktusok merülnek fel az érdekelt felek között a követelményekkel kapcsolatban. Követelménytervező mérnökként hogyan kezeli a legjobban a konfliktusokat a projektekben?",
+          "options": [
+            "A konfliktust a rendelkezésére álló legjobb megoldási technikával oldja meg.",
+            "Elemzi a konfliktust, megpróbál megoldást hozni egy megfelelő technikával, és dokumentálja a konfliktusra vonatkozó releváns információkat.",
+            "Figyelmen kívül hagyja a konfliktust, mivel ez a projektmenedzsment feladata.",
+            "Az ilyen konfliktusok megoldása érdekében eszkalálja a következőket a projektben meghatározott eszkalációs útvonalakon keresztül."
+          ],
+          "correctAnswers": [
+            1
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 98,
+          "question": "Értékelje a követelmények természetes nyelvi dokumentációjára vonatkozó alábbi állításokat abból a szempontból, hogy érvényesek vagy nem érvényesek-e. Sorolja fel azokat, amelyek nem érvényesek.",
+          "options": [
+            "A természetes nyelvű követelményeket nem lehet félreérteni.",
+            "A természetes nyelvű követelmények elsősorban a viselkedési szemléletre alkalmasak.",
+            "A természetes nyelvű követelményeket egy sablon szerint kell megfogalmazni.",
+            "A természetes nyelv nem megfelelő kifejezőeszköz a minőségi követelmények megfogalmazására.",
+            "A természetes nyelvű követelmények nem megfelelő kommunikációs eszköz a szoftverépítészek és programozók számára.",
+            "Egyik sem érvényes"
+          ],
+          "correctAnswers": [
+            5
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 99,
+          "question": "A rendszerfejlesztés inputjaként egy autóipari gyártó igazgatótanácsa a következő célokat határozta meg:\n1. Az infotainment rendszernek könnyen kezelhetőnek kell lennie.\n2. A felhasználónak úgy kell tudnia kezelni a rendszert, hogy ne vonja el a figyelmét a közúti forgalomról.\n3. A rendszernek további áramforrás nélkül kell működnie.\n4. A rendszernek konfigurálhatónak kell lennie a különböző autómodellekhez.\nMelyik két megközelítéssel lehet ezeket a célokat a legjobban részletezni és finomítani?",
+          "options": [
+            "A célok egyértelmű specifikálása használati esetek és a hozzájuk tartozó tevékenységdiagramok segítségével.",
+            "A célok dokumentálása szekvencia diagramban.",
+            "A célok lebontása célfák segítségével, hogy konkrétabb célokat kapjunk.",
+            "Más célok megfogalmazása, mivel az adott célok nem megvalósíthatóak."
+          ],
+          "correctAnswers": [
+            0,
+            1
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 100,
+          "question": "Az alábbi elemek közül melyek az állapotdiagram részei?",
+          "options": [
+            "Esemény",
+            "Kezdeti állapot",
+            "Állapotátmenet",
+            "Kölcsönhatás",
+            "Szereplő"
+          ],
+          "correctAnswers": [
+            0,
+            1,
+            2
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 101,
+          "question": "A követelményeket a tartalom, a dokumentáció és a megállapodás szempontjából kell ellenőrizni. Jelölje meg, hogy mely állítások nem helytállóak.",
+          "options": [
+            "Az ellenőrzés egy olyan ellenőrzési technika, amely nagyon informális, de ezért nagyon hatékony is.",
+            "A helyszíni megfigyelés a leggyakrabban alkalmazott ellenőrzési technika.",
+            "Az ellenőrzéshez soha nem szabad egynél több ellenőrzést végző személyt alkalmazni, mivel ez olyan konfliktusokat idézhet elő, amelyek akadályozzák a projekt végrehajtását.",
+            "A tárgyi konfliktust az ellenőrzés előtt fel kell oldani, mivel az ellenőrzés során nem ismerik fel a konfliktusokat.",
+            "Egyik sem helytálló"
+          ],
+          "correctAnswers": [
+            4
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 102,
+          "question": "A gyenge követelményt a következők közül melyik írja le a legjobban?",
+          "options": [
+            "A gyenge követelmény homályos.",
+            "A gyenge követelmény nem kommunikálja hatékonyan a kívánt viselkedést.",
+            "A gyenge követelmény hibás.",
+            "A gyenge követelmény hiányos."
+          ],
+          "correctAnswers": [
+            1
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 103,
+          "question": "Ha egy hiányzó követelményt csak a felhasználói átvételi teszt során fedeztek fel, milyen következtetést vonhatunk le a követelményekkel kapcsolatos folyamatról?",
+          "options": [
+            "Az elemzőnek több megbeszélést kellett volna tartania a felhasználókkal.",
+            "A felhasználók nem kommunikáltak hatékonyan.",
+            "Az alkalmazott elemzési technikák helytelenek voltak.",
+            "A követelmények felülvizsgálati folyamata nem volt megfelelő"
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 104,
+          "question": "Ha a követelményekben szereplő hibát a kód implementálásáig nem fedezik fel, az alábbiak közül melyik költség merül fel?",
+          "options": [
+            "Hibakövetési idő",
+            "A teszt automatizálás fejlesztési ideje",
+            "Tesztesetek fejlesztési ideje",
+            "Tesztösszefoglaló jelentés elkészítésének ideje."
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 105,
+          "question": "Ha egy követelmény a termékkövetelmény-dokumentum és a részletes tervdokumentum között jelenik meg, mi történt?",
+          "options": [
+            "A BA hozzáadta a követelményt",
+            "A fejlesztőcsapat adta hozzá a követelményt",
+            "A tesztelési csoport adta hozzá a követelményt",
+            "Az ügyfél adta hozzá a követelményt"
+          ],
+          "correctAnswers": [
+            1
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 106,
+          "question": "Mi az a \"scope creep\"?",
+          "options": [
+            "A projekt természetes fejlődése a projekt hatókörének meghatározásakor.",
+            "Egy gonosz szörny, amely arra vár, hogy elpusztítsa a projektet.",
+            "A meghatározott hatókörön túli követelmények hozzáadása.",
+            "A kontextus meghatározásának elmulasztása."
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 107,
+          "question": "Mi történhet, ha nem jut elegendő idő a követelmények összegyűjtésére?",
+          "options": [
+            "A projekt ütemtervét valószínűleg túllépik az utómunka miatt.",
+            "A projekt ütemtervét valószínűleg betartják a kevesebb munka miatt.",
+            "Nem lesz hatása, mert a műszaki csapat a projekt megvalósítása során helyes döntéseket hoz.",
+            "A felülvizsgálati üléseken megtakarított idő többletidőt teremt az utómunkára."
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 108,
+          "question": "Elemzőként terveznie kell a hatókörváltozásokat?",
+          "options": [
+            "Nem, mert a hatókörváltozások tervezése ugyanaz, mint annak elismerése, hogy a hatókör nem volt meghatározva.",
+            "Nem, mert ez lehetővé teszi a fejlesztőcsapatnak, hogy több funkciót adjon hozzá.",
+            "Igen, mert a fejlesztőcsapat több funkciót fog hozzáadni, ezért ezt lehetővé kell tennünk.",
+            "Igen, mert az üzleti realitások miatt változhat a hatókör."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 109,
+          "question": "Egy új rendszer (X rendszer) kerül kifejlesztésre. Új interfészt kell kialakítani az X rendszer és egy régi rendszer (Y rendszer) között. Nem lesz más új interfész az X rendszerhez. Az Y rendszernek már van interfésze egy nagyon fontos másik örökölt rendszerrel.(Z rendszer). Ezen információk alapján melyik állítás írja le legjobban az X rendszer környezetét?",
+          "options": [
+            "Az Y rendszer az X rendszer kontextusában van, a Z rendszer az X rendszer szürke zónájában van.",
+            "Az Y rendszer és a Z rendszer az X rendszer kontextusának szürke zónájában van.",
+            "Az Y rendszer és a Z rendszer az X rendszer kontextusában van.",
+            "Y rendszer az X rendszer kontextusában van, Z rendszer a nem releváns környezetben van."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 110,
+          "question": "Az alábbiak közül melyik a helyes állítás a nem funkcionális követelményekről?",
+          "options": [
+            "A nem funkcionális követelmények azt írják le, „hogyan\" kell működnie a rendszernek.",
+            "A nem funkcionális követelmények olyan lépéseket írnak le, amelyek miatt a rendszer nem működne tovább.",
+            "A nem funkcionális követelmények QOS (Quality of service) követelmények.",
+            "Nem funkcionális követelmények nem léteznek. Minden követelmény funkcionális."
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 111,
+          "question": "Az alábbiak közül melyik a helyes állítás a felhasználói követelményekről?",
+          "options": [
+            "A felhasználói követelmények a felhasználói felületet írják le.",
+            "A felhasználói követelmények meghatározzák azokat a teljesítmény- és terhelési mérőszámokat, amelyeknek a rendszernek meg kell felelnie.",
+            "A felhasználói követelmények egy adott érdekelt fél vagy érdekeltek egy csoportjának igényeit írják le.",
+            "A felhasználói követelmények leírják a rendszer jelentési felületét."
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 112,
+          "question": "Az alábbi állítások közül melyek fontosak a tesztelhető követelmények létrehozásához?",
+          "options": [
+            "I. Minden követelményben világosan meg kell jelölni, hogy ki ellenőrizheti, hogy a megvalósítás helyesen történt-e.",
+            "II. Világos megértést és a követelmény részleteinek egyértelmű kijelentését követeli meg.",
+            "III. A követelmények funkcionális és nem funkcionális szempontokkal is rendelkeznek.",
+            "IV. Az ügyfeleknek néha ködös „érzéseik\" vannak a követelményekkel kapcsolatban.",
+            "V. A követelmények néha nem megvalósíthatók a költségvetésen belül."
+          ],
+          "correctAnswers": [
+            1,
+            2
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 113,
+          "question": "Tekintsük a következő követelményt:\nAz Y jelentés első oldala, az alapértelmezett kiválasztás kritériuma alapján a felhasználó számára a kérelem elküldését követő 5 másodpercen belül megjelenik, ha nincs más felhasználó a rendszerben.\nEz melyik típusú követelményre példa?",
+          "options": [
+            "Nem funkcionális",
+            "Megszorítás",
+            "Használhatóság",
+            "Jelentés"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 114,
+          "question": "Az alábbi állítások közül melyek igazak?\n\nI. Az üzleti követelmények a rendszer fejlesztésének magas szintű okait írják le.\nII. A megvalósítási követelmények leírják, hogy a rendszer hogyan teljesíti a meghatározott üzleti funkciót.\nIII. A felhasználói követelményeket néha funkcionális követelményeknek is nevezik.\nIV. A legtöbb felhasználó a rendszer leírásakor funkciókban gondolkodik.\nV. A felhasználói követelmények leírására gyakran használnak használati eseteket.",
+          "options": [
+            "I. Az üzleti követelmények a rendszer fejlesztésének magas szintű okait írják le.",
+            "II. A megvalósítási követelmények leírják, hogy a rendszer hogyan teljesíti a meghatározott üzleti funkciót.",
+            "III. A felhasználói követelményeket néha funkcionális követelményeknek is nevezik.",
+            "IV. A legtöbb felhasználó a rendszer leírásakor funkciókban gondolkodik.",
+            "V. A felhasználói követelmények leírására gyakran használnak használati eseteket."
+          ],
+          "correctAnswers": [
+            0,
+            2,
+            3,
+            4
+          ],
+          "multipleChoice": true
+        },
+        {
+          "id": 115,
+          "question": "Az alábbi követelményrendszerek közül melyiket használják általában a felhasználói követelmények leírására?",
+          "options": [
+            "Felhasználói történetek",
+            "Adatáramlási diagramok",
+            "Vezérlési folyamatábrák",
+            "Egyed-kapcsolat diagramok"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 116,
+          "question": "Az alábbiak közül melyik igaz állítás igaz egy rendszer adatkezelési igényeivel kapcsolatban?",
+          "options": [
+            "A követelményeknek ki kell terjedniük a rendszer általi összes adatkezelésre akkor is, ha azokat a rendszeren kívül kezdeményezték és/vagy törölték.",
+            "A követelményeknek csak a rendszer által tartalmazott adatokat kell leírniuk (kezdeményezve és törölve a meghatározott rendszeren belül)",
+            "A követelményeknek csak azokat az adatokat kell leírniuk amelyeket a rendszeren belül kezdeményeznek.",
+            "A követelményeknek csak azokat az adatokat kell leírniuk amelyeket a rendszerben törölnek."
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 117,
+          "question": "Az alábbiak közül melyik írja le legjobban egy adatkövetelmény elfogadási kritériumait?",
+          "options": [
+            "Az adatok megfelelő kezdeményezése és befejezése",
+            "Az adatok megfelelő bemutatása",
+            "A folyamatban lévő adatok megfelelő kezdeményezése, befejezése és kezelése",
+            "Az adatok megfelelő biztonsága a feldolgozás során"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 118,
+          "question": "Tegyük fel, hogy egy új funkció követelményeit írja. Ez a funkció egy SOA (Service-oriented architecture) csomag része, amelynek rendkívül gyors és pontos nyereség- vagy veszteségszámítást kell biztosítania a különböző lehetséges tőzsdei tranzakciók esetében. Ezt a csomagot egy olyan alkalmazáscsalád használja, amely lehetővé teszi nagy intézményi kereskedők számára, hogy nagy értékű ügyleteket kössenek, amelyek kihasználják a részvények vételi és eladási árainak kis különbségeit. Milyen típusú követelményeket várna el a legkevésbé?",
+          "options": [
+            "Karbantarthatóság",
+            "Pontosság",
+            "Teljesítmény",
+            "Interoperabilitás"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 119,
+          "question": "Vegyük a következőket:\nI. Megbízhatóság\nII. Használhatóság\nIII. Hordozhatóság\nA fenti felsorolásból melyik a legkevésbé fontos minőségi jellemző a követelmények meghatározásakor?",
+          "options": [
+            "A megbízhatóság a legkevésbé fontos.",
+            "A használhatóság a legkevésbé fontos.",
+            "A funkcionális követelmények a legfontosabbak, ezek kevésbé fontosabb nem funkcionális követelmények.",
+            "Minden rendszer más és más, a követelménytípusokat nem lehet általánosságban fontosság szerint sorrendbe állítani."
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 120,
+          "question": "Az alábbiak közül melyik igaz az interfészekre vonatkozóan a definiálandó rendszerre vonatkozóan?",
+          "options": [
+            "Az interfészek változásai hatással lehetnek a definiálandó rendszerre, ezért mindegyiket definiálni kell.",
+            "Nem fontos, mert interfészek ritkán léteznek.",
+            "Csak az adatinterfészeket kell definiálni.",
+            "Csak a harmadik fél szoftveréhez tartozó interfészeket kell definiálni, mert nem tudjuk ellenőrizni, hogy mikor változhat."
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 121,
+          "question": "A szolgáltatásminőségi követelmények melyik követelménytípus részhalmazába tartoznak?",
+          "options": [
+            "Funkcionális követelmények",
+            "Nem funkcionális követelmények",
+            "Viselkedési követelmények",
+            "Teljesítménykövetelmények"
+          ],
+          "correctAnswers": [
+            1
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 122,
+          "question": "„A megoldásokra vonatkozó megszorítások\" az alábbi fogalmak közül melyiknek a meghatározása?",
+          "options": [
+            "Interface",
+            "Kockázat",
+            "Feltételezés",
+            "Korlátozás"
+          ],
+          "correctAnswers": [
+            3
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 123,
+          "question": "A Systems Modeling Language (SysML) egy általános célú modellező nyelv rendszertechnikai alkalmazásokhoz. Add meg, a modell hova tartoznak a modell alábbi részei (a SysMl-hez, az UML-hez, vagy mindkettőhöz)\nBlokk definíciós diagram",
+          "options": [
+            "SysML-hez",
+            "UML-hez",
+            "Mindkettőhöz"
+          ],
+          "correctAnswers": [
+            0
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 124,
+          "question": "A Systems Modeling Language (SysML) egy általános célú modellező nyelv rendszertechnikai alkalmazásokhoz. Add meg, a modell hova tartoznak a modell alábbi részei (a SysMl-hez, az UML-hez, vagy mindkettőhöz)\nHasználati eset diagram",
+          "options": [
+            "SysML-hez",
+            "UML-hez",
+            "Mindkettőhöz"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        },
+        {
+          "id": 125,
+          "question": "A Systems Modeling Language (SysML) egy általános célú modellező nyelv rendszertechnikai alkalmazásokhoz. Add meg, a modell hova tartoznak a modell alábbi részei (a SysMl-hez, az UML-hez, vagy mindkettőhöz)\nÁllapotgép diagram",
+          "options": [
+            "SysML-hez",
+            "UML-hez",
+            "Mindkettőhöz"
+          ],
+          "correctAnswers": [
+            2
+          ],
+          "multipleChoice": false
+        }
+  ]

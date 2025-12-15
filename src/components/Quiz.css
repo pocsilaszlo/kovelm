@@ -1,0 +1,140 @@
+.quiz-container {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.question-text {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1a202c;
+  line-height: 1.7;
+  margin-bottom: 8px;
+  padding: 24px;
+  background: #f8f9fa;
+  border-radius: 12px;
+  border-left: 4px solid #667eea;
+}
+
+.options-container {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.option {
+  padding: 18px 24px;
+  border: 2px solid #e2e8f0;
+  border-radius: 12px;
+  background: white;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: left;
+  transition: all 0.2s ease;
+  color: #2d3748;
+  font-weight: 400;
+}
+
+.option:hover:not(:disabled) {
+  border-color: #667eea;
+  background: #f7faff;
+  transform: translateX(6px);
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.15);
+}
+
+.option.selected {
+  border-color: #667eea;
+  background: #eef2ff;
+  font-weight: 500;
+  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.2);
+}
+
+.option.correct {
+  border-color: #10b981;
+  background: #d1fae5;
+  color: #065f46;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
+}
+
+.option.correct-missed {
+  border-color: #10b981;
+  background: #ecfdf5;
+  color: #065f46;
+  border-style: dashed;
+  font-weight: 500;
+}
+
+.option.incorrect {
+  border-color: #ef4444;
+  background: #fee2e2;
+  color: #991b1b;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(239, 68, 68, 0.2);
+}
+
+.option:disabled {
+  cursor: not-allowed;
+}
+
+.quiz-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+}
+
+.btn {
+  padding: 16px 40px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.btn-primary:disabled {
+  background: #cbd5e0;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.btn-secondary {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+}
+
+.btn-secondary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+}
+
+@media (max-width: 768px) {
+  .question-text {
+    font-size: 18px;
+    padding: 20px;
+  }
+
+  .option {
+    padding: 16px 20px;
+    font-size: 15px;
+  }
+
+  .btn {
+    padding: 14px 32px;
+    font-size: 15px;
+  }
+}
+
